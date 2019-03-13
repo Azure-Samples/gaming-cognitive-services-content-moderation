@@ -112,7 +112,7 @@
 		},
 		"repoUrl": {
 			"type": "string",
-			"defaultValue": "https://github.com/BrianPeek/NotHotdogFunc.git"
+			"defaultValue": "https://github.com/Azure-Samples/gaming-cognitive-services-content-moderation.git"
 		},
 		"branch": {
 			"type": "string",
