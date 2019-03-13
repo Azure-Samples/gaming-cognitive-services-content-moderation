@@ -16,7 +16,7 @@
             }
         },
         "contentModeratorTier": {
-            "type": "String",
+            "type": "string",
 			"allowedValues": [
 				"F0",
 				"S0"
@@ -136,7 +136,7 @@
 		{
             "type": "Microsoft.Storage/storageAccounts",
             "name": "[variables('storageAccountName')]",
-            "apiVersion": "2016-12-01",
+            "apiVersion": "2017-06-01",
             "location": "[parameters('location')]",
             "kind": "Storage",
             "sku": {

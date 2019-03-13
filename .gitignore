@@ -331,3 +331,4 @@ ASALocalRun/
 
 # Azure functions local settings
 local.settings.json
+.vscode/
