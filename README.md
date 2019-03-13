@@ -20,4 +20,6 @@ To deploy the reference architecture to your own account, use the button below.
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2FAzure-Samples%2Fgaming-cognitive-services-content-moderation%2Fblob%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
 
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
 Then, please see the full documentation on the [Content Moderation Reference Architecture](https://docs.microsoft.com/gaming/azure/reference-architectures/cognitive-content-moderation) to learn how it all works.
