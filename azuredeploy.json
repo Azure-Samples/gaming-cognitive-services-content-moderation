@@ -128,6 +128,20 @@
 		"storageAccountid": "[concat(resourceGroup().id,'/providers/','Microsoft.Storage/storageAccounts/', variables('storageAccountName'))]"
 	},
     "resources": [
+	{
+		"apiVersion": "2017-05-10",
+		"name": "pid-877696cf-d5a0-442f-9954-ab370b719474",
+		"comments": "GUID for tracking production pilot deployments intended for Gaming-Content-Moderator.",
+		"type": "Microsoft.Resources/deployments",
+		"properties": {
+		    "mode": "Incremental",
+		    "template": {
+			    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+				"contentVersion": "1.0.0.0",
+				"resources": []
+			}
+		    }
+	},	    
         {
             "type": "Microsoft.CognitiveServices/accounts",
             "sku": {
