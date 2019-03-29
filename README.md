@@ -17,6 +17,6 @@ Not everyone behaves appropriately while they are playing online, and some moder
 
 To deploy the reference architecture to your own account, use the button below.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fAzure-Samples%2fgaming-cognitive-services-content-moderation%2fmaster%2fazuredeploy.json" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
+<a href="https://aka.ms/arm-gaming-cognitive-services-content-moderation" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
 
 Then, please see the full documentation on the [Content Moderation Reference Architecture](https://docs.microsoft.com/gaming/azure/reference-architectures/cognitive-content-moderation) to learn how it all works.
