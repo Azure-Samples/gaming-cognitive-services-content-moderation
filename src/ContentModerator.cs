@@ -82,8 +82,8 @@ namespace ChatContentModerator
             {
                 screenResult = client.TextModeration.ScreenText("text/plain", stream, null, null, true, null, false);
             }
-            catch (Exception ex)
-            {
+			catch
+			{
                 screenResult = null;
             }
 
